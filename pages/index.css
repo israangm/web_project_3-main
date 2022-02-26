@@ -1,0 +1,64 @@
+/* VENDORS */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+
+/* BODY */
+@import url(../blocks/body/body.css);
+
+/* PAGE */
+@import url(../blocks/page/page.css);
+
+/* LOGO */
+@import url(../blocks/logo/logo.css);
+
+/* HEADER */
+@import url(../blocks/header/header.css);
+
+/* LEAD */
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__title/lead__title.css);
+
+/* CONTENT */
+@import url(../blocks/content/content.css);
+@import url(../blocks/content/__lead/content__lead.css);
+@import url(../blocks/content/__intro/content__intro.css);
+@import url(../blocks/content/__photo-grid/content__photo-grid.css);
+@import url(../blocks/content/__places/content__places.css);
+@import url(../blocks/content/__cover/content__cover.css);
+
+/* INTRO */
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__quote/intro__quote.css);
+@import url(../blocks/intro/__quote-text/intro__quote-text.css);
+@import url(../blocks/intro/__author/intro__author.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__text/intro__text.css);
+
+/* PHOTO-GRID */
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
+/* PLACES */
+@import url(../blocks/places/places.css);
+@import url(../blocks/places/__title/places__title.css);
+@import url(../blocks/places/__card/places__card.css);
+@import url(../blocks/places/__artist/places__artist.css);
+@import url(../blocks/places/__artist-name/places__artist-name.css);
+@import url(../blocks/places/__image/places__image.css);
+@import url(../blocks/places/__texts/places__texts.css);
+@import url(../blocks/places/__text/places__text.css);
+
+/* COVER */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+
+/* BUTTON */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_cover/button_cover.css);
+
+/* FOOTER */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

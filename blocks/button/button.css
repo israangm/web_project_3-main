@@ -1,0 +1,46 @@
+.button {
+    color: #FFF;
+    background-color: #0278FE;
+    max-width: 248px;
+    max-height: 48px;
+    border-radius: 4px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: calc((48px - 21.78px) / 2);
+    padding-bottom: calc((48px - 21.78px) / 2);
+    transition: background-color 0.3s ease-out;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin: 48px 0px 0px;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    z-index: 4;
+  }
+  
+  .button:hover {
+    background-color: #0063D2;
+  }
+  
+  @media screen and (max-width: 570px) {
+    .button {
+      max-height: calc(21.78px * 2);
+      box-sizing: content-box;
+    }
+  }
+  
+  @media screen and (max-width: 420px) {
+    .button {
+      max-height: calc(21.78px * 3);
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .button {
+      max-width: calc(100% - 2 * 16px);
+      margin: auto;
+      padding: 0 40px;
+    }
+  }

@@ -1,0 +1,19 @@
+.content__places {
+    margin: 0 11.5% 80px;
+  }
+  
+  .content__places:last-of-type {
+    margin-bottom: 0;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .content__places {
+      margin: 0 24px 72px;
+    }
+  }
+  
+  @media screen and (max-width: 320px) {
+    .content__places {
+      margin: 0 0 20px;
+    }
+  }

@@ -1,0 +1,18 @@
+.places__artist-name {
+    color: #FFF;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+      
+.places__artist-name:last-of-type {
+    margin-bottom: 48px;
+}
+      
+@media screen and (max-width: 320px) {
+    .places__artist-name:last-of-type {
+        margin-bottom: 10px;
+    }
+}

@@ -1,0 +1,9 @@
+.places__artist {
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration: none;
+    color: #AAA;
+    margin: 0 0 8px;
+    letter-spacing: 0.12em;
+    font-weight: 400;
+  }
