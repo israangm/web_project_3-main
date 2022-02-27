@@ -4,6 +4,7 @@
     grid-column-start: 2;
     grid-column-end: 2;
   }
+  
   @media screen and (max-width: 520px) {
     .places__texts {
       grid-row: 4;
