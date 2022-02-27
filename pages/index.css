@@ -5,9 +5,6 @@
 /* BODY */
 @import url(../blocks/body/body.css);
 
-/* PAGE */
-@import url(../blocks/page/page.css);
-
 /* LOGO */
 @import url(../blocks/logo/logo.css);
 
@@ -57,7 +54,7 @@
 
 /* BUTTON */
 @import url(../blocks/button/button.css);
-@import url(../blocks/button/_cover/button_cover.css);
+@import url(../blocks/button/_cover_buy-tickets/button_cover_buy-tickets.css);
 
 /* FOOTER */
 @import url(../blocks/footer/footer.css);
