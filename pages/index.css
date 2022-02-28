@@ -54,7 +54,7 @@
 
 /* BUTTON */
 @import url(../blocks/button/button.css);
-@import url(../blocks/button/_cover_buy-tickets/button_cover_buy-tickets.css);
+@import url(../blocks/button/_cover/button_cover_buy-tickets.css);
 
 /* FOOTER */
 @import url(../blocks/footer/footer.css);

@@ -39,9 +39,8 @@
   
   @media screen and (max-width: 320px) {
     .button {
-      width: 208px;
-      height: 28px;
+      max-width: calc(100% - 2 * 16px);
       margin: auto;
-      padding: 13px 40px;
+      padding-right: 40px;
+      padding-left: 40px;
     }
-  }
